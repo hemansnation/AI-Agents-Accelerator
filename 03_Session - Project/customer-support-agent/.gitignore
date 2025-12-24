@@ -1,0 +1,8 @@
+.env
+.env.local
+.claude/
+venv/
+__pycache__/
+/pytest_cache__/
+faiss_index/
+.DS_Store
