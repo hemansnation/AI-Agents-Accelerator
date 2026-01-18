@@ -4,3 +4,18 @@ user query > routing > RAG > response generation > handoffs if needed
 
 HITL - human in the loop
 
+why AI agents
+- reduce time
+- reduce cost
+- scalability
+
+API 1 - java
+return JSON
+
+
+API 2 - python
+handdle JSON
+
+{
+    "username": "sri"
+}

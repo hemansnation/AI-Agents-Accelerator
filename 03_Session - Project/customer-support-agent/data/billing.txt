@@ -1,0 +1,24 @@
+Billing and Account Information
+
+Billing Procedures:
+- Monthly billing occurs on the 1st of each month
+- Annual subscriptions receive a 20% discount
+- Invoices are sent via email within 24 hours of payment
+- Payment methods can be updated in account settings
+
+Refund Policy:
+- Full refunds available within 30 days of purchase
+- Partial refunds available after 30 days based on usage
+- Refund processing takes 5-10 business days
+- Contact customer support for refund requests
+
+Account Management:
+- Users can upgrade or downgrade plans at any time
+- Prorated charges apply to plan changes
+- Account data is retained for 90 days after cancellation
+- Family plans allow up to 5 users
+
+Subscription Tiers:
+- Basic: $9.99/month - Essential features
+- Pro: $24.99/month - Advanced features + priority support
+- Enterprise: Custom pricing - Full feature access + dedicated support

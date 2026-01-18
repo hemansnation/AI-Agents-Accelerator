@@ -14,4 +14,3 @@ async def handle_query(query: Query):
         return {"response": response}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-

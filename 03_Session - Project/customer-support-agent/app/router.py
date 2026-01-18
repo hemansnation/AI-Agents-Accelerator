@@ -19,4 +19,3 @@ def route_query(query):
     category = response.content.strip()
     confidence = 0.9 if category in ["FAQ", "Technical", "Billing"] else 0.5
     return category, confidence
-
